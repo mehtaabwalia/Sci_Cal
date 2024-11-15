@@ -38,7 +38,7 @@ def average():
   n5=float(input("enter the value:"))
   n=5
   c=n1+n2+n3+n4+n5
-  d=c/4
+  d=c/5
   n
   print(d)
 
